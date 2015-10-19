@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ways_to_emphasize">
+        <item>@string/all_caps</item>
+        <item>@string/exclamation_points</item>
+        <item>@string/smileys</item>
+    </array>
+
+</resources>

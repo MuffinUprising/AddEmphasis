@@ -1,0 +1,26 @@
+<resources>
+
+    //main activity items
+    <string name="app_name">AddEmphasis</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="emphasis_edit_text">Enter text to add emphasis to</string>
+    <string name="emphasis_button">Add Emphasis</string>
+
+    //list dialog items
+    <string name="list_title">Select Emphasis</string>
+    <string name="dialog_emphasis">Choose your emphasis</string>
+
+        //emphasis choices
+    <string-array name="choices">
+        <string name="all_caps">All Caps</string>
+        <string name="exclamation_points">Exclamation Points</string>
+        <string name="smileys">Smileys</string>
+    </string-array>
+
+    <string name="list_ok">Add Emphasis</string>
+    
+    //result dialog items
+    <string name="result_ok">OK</string>
+    <string name="result_msg">Emphasized text:</string>
+    <string name="result_title">Result</string>
+</resources>
